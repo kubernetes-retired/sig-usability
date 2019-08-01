@@ -2,14 +2,14 @@
 
 SIG-Usability related docs and code.
 
-## Community, discussion, contribution, and support
+## Get involved!
 
-Learn how to engage with the Kubernetes community on the [community page](http://kubernetes.io/community/).
+* Join the [sig-usability](https://groups.google.com/forum/#!forum/kubernetes-sig-usability) Google Group for access to documents and calendars.
 
-You can reach the maintainers of this project at:
+* Join our Meetings
+  * Every 3rd Tuesday @ 2:00 PT on [Zoom][zoomMeeting]
 
-- [Slack channel](https://kubernetes.slack.com/messages/sig-usability)
-- [Mailing list](https://groups.google.com/forum/#!forum/kubernetes-sig-usability)
+* Chat with us on [Slack](https://kubernetes.slack.com/messages/sig-usability)
 
 ### Code of conduct
 
@@ -22,3 +22,6 @@ File a request at https://github.com/kubernetes/org to be added to @kubernetes-s
 Once you've been a member, when you are ready to become a reviewer of other people's code, file a PR on our [OWNERS file](https://github.com/kubernetes-sigs/multi-tenancy/blob/master/OWNERS) and an approver will need to approve you.
 
 Once you've been a reviewer, you can request to become an approver by filling a PR on our OWNERS file and another approver will need to approve you.
+
+
+[zoomMeeting]:https://zoom.us/j/3832562240 
