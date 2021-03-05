@@ -7,7 +7,7 @@ SIG-Usability related docs and code.
 * Join the [sig-usability](https://groups.google.com/forum/#!forum/kubernetes-sig-usability) Google Group for access to documents and calendars.
 
 * Join our Meetings
-  * Every 3rd Tuesday @ 2:00 PT on [Zoom][zoomMeeting]
+  * First Tuesday of every month at 10am PT on [Zoom][zoomMeeting]
 
 * Chat with us on [Slack](https://kubernetes.slack.com/messages/sig-usability)
 
